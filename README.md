@@ -165,14 +165,4 @@ beam_width = 10
 - **Parallel processing** for faster execution.
 - **Better mutation strategies** to improve search diversity.
 
----
-
-## 👨‍💻 Author
-- **M Bharat Kumar**  
-- [GitHub Repository](https://github.com/Bharatmallipuram/Sentiment-Analysis)
-
----
-
-## 📄 License
-This project is licensed under the **MIT License**.
 
